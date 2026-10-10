@@ -1,0 +1,20 @@
+{
+  "independent_source_smoke": {
+    "num_envs": 64,
+    "iterations": 3,
+    "physics_dt": 0.001,
+    "policy_dt": 0.02,
+    "exit_code": 0,
+    "completed": true
+  },
+  "checkpoint_sha256_verified": true,
+  "original_cloud_play": {
+    "model_iteration": 14800,
+    "physics_backend": "PhysX",
+    "visualizer": "Viser",
+    "running_verified": true
+  },
+  "windows_execution_verified": false,
+  "fresh_dependency_install_verified": false,
+  "note": "Cloud smoke reused the installed pinned dependency environment; no claim of a fresh install or bitwise retraining reproducibility."
+}

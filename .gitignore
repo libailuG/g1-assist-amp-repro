@@ -1,0 +1,11 @@
+dependencies/
+.venv/
+venv/
+generated/
+legged_lab/logs/
+legged_lab/.vscode/
+**/__pycache__/
+*.pyc
+*.egg-info/
+.DS_Store
+*.tmp

@@ -1,0 +1,16 @@
+{
+  "iteration": 14800,
+  "checkpoint": "checkpoints/model_14800.pt",
+  "Mean reward": 12.50815,
+  "Mean episode length": 948.01695,
+  "Episode_Termination/time_out": 0.9100465,
+  "Metrics/base_velocity/error_vel_xy": 0.603777,
+  "Metrics/base_velocity/error_vel_yaw": 0.847952,
+  "Mean action std": 0.8429,
+  "Episode_Reward/action_rate_l2": -0.28312350000000003,
+  "selection_basis": "Highest trailing 1000-iteration average training reward among saved checkpoints; compatible survival and smoothness metrics. Not yet verified by deterministic play.",
+  "trailing_1000_mean_reward": 12.4271,
+  "selected_copy": "checkpoints/model_14800.pt",
+  "sha256": "59c4d32ebd7de00cd98f403a6b119836b2e45f3726eed9f4bdb27f9ccb619807",
+  "evaluation_status": "training_log_selection_only"
+}
